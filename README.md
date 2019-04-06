@@ -2,7 +2,7 @@
 # Find most suitable link between device and stations
 
 The project can be run in 2 ways:
-- Run the solution locally:
+- Run the solution locally:  
     Before start:
     - Download python version 3.7  
         https://www.python.org/downloads/  
@@ -14,6 +14,8 @@ The project can be run in 2 ways:
   
     To run the unit test of the solution run  
     python -m unittest unittests.testcomputemostsuitable  
+    also here if on macOS or Linux use python3 instead if you don't have configured  
+    python3 as standard  
   
 - Deployed version of the solution as Google Cloud Function  
     Before start:  

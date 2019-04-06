@@ -10,7 +10,7 @@ The project can be run in 2 ways:
         pip install -r requirements.txt  
       
     Run the command "python app.py" or "python3 app.py" if you are on macOS/Linux  
-    if you don't you don't have the enviroment setup to run python3 as standard  
+    if you don't have the enviroment setup to run python3 as standard  
   
     To run the unit test of the solution run  
     python -m unittest unittests.testcomputemostsuitable  
